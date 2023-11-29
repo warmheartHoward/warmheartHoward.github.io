@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "王昊"
-description              : "机器视觉应用"
-repository               : "warmheartHoward/HowardHao.github.io"
+description              : "机器视觉"
+repository               : "HowardHao.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "唐健"
+  name             : "王昊"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
-  employer         : #"Hefei General Machinery Research Institute"
+  bio              : "清华大学深圳国际研究生院"
+  location         : "广东 深圳"
+  employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : 
+  email            : "wangh22@mails.tsinghua.edu.cn"
+  researchgate     : 
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "warmheartHoward"
   google_plus      :
   keybase          :
   instagram        :
