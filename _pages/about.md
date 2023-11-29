@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
+
+我在读于清华大学深圳国际研究生先进制造学部，目前为研二学生，本科毕业于重庆大学UC联合学院（保研升学），目前的研究课题为《基于机器视觉的微液量计量技术于系统》，目前一共公开了6篇发明专利，
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
+- 机器视觉
 - 仪器仪表
 - 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
+- 目标检测
+- 语义分割
+- 机器人控制
   
 
 
