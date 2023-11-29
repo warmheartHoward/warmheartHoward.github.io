@@ -33,7 +33,7 @@ My research areas include:
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
+# 🎓 Education Background
 - *2022.09 - present*, <a href="https://www.sigs.tsinghua.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> Tsinghua University, Shenzhen International Graduate School, Shenzhen, Guangdong, Master's Degree (recommended exemption). 
 - *2017.09 - 2022.06*, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> Chongqing University, Chongqing University - University of Cincinnati Joint College,Chongqing, Bachelor's Degree
  
