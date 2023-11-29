@@ -18,28 +18,28 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-我在读于清华大学深圳国际研究生先进制造学部，目前为研二学生，本科毕业于重庆大学UC联合学院（保研升学），目前的研究课题为《基于机器视觉的微液量计量技术于系统》，目前一共公开了6篇发明专利，
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+I am currently pursuing my second year of postgraduate studies at the School of Advanced Manufacturing, Tsinghua University Shenzhen International Graduate School. I completed my undergraduate degree at the UC Joint College of Chongqing University. My current research topic is 'Micro-liquid Volume Measurement Technology and Systems Based on Machine Vision'. To date, I have published six invention patents and have been involved in multiple industrial research projects. I also have extensive internship experience.
 
-我的研究领域包括：
-- 机器视觉
-- 仪器仪表
-- 机械工程
-- 目标检测
-- 语义分割
-- 机器人控制
+
+My research areas include:
+- Machine Vision
+- Instrumentation
+- Mechanical Engineering
+- Object Detection
+- Semantic Segmentation
+- Robot Control
   
 
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+- *2022.09 - present*, <a href="https://www.sigs.tsinghua.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> Tsinghua University, Shenzhen International Graduate School, Shenzhen, Guangdong, Master's Degree (recommended exemption). 
+- *2017.09 - 2022.06*, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> Chongqing University, Chongqing University - University of Cincinnati Joint College,Chongqing, Bachelor's Degree
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 Patents
 
 ### 英文
 ---
