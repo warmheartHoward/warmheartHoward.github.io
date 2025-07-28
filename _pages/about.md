@@ -25,16 +25,15 @@ My research areas include:
 - Machine Vision
 - Instrumentation
 - Mechanical Engineering
-- Object Detection
-- Semantic Segmentation
-- Robot Control
+- Mutimodal large model
+- Self-Driving Vehicle
   
 
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education Background
-- *2022.09 - present*, <a href="https://www.sigs.tsinghua.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> Tsinghua University, Shenzhen International Graduate School, Shenzhen, Guangdong, Master's Degree (recommended exemption). 
+- *2022.09 - 2025.06*, <a href="https://www.sigs.tsinghua.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> Tsinghua University, Shenzhen International Graduate School, Shenzhen, Guangdong, Master's Degree (recommended exemption). 
 - *2017.09 - 2022.06*, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> Chongqing University, Chongqing University - University of Cincinnati Joint College,Chongqing, Bachelor's Degree
  
 <span class='anchor' id='-lwzl'></span>
