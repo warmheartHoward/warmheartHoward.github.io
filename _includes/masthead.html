@@ -1,3 +1,13 @@
+<!--
+ * @Author: warmheartHoward wang3h9hao@gmail.com
+ * @Date: 2025-07-28 17:23:34
+ * @LastEditors: warmheartHoward wang3h9hao@gmail.com
+ * @LastEditTime: 2025-07-29 15:17:22
+ * @FilePath: \warmheartHoward.github.io\_includes\masthead.html
+ * @Description: 
+ * 
+ * Copyright (c) 2025 by ${git_name_email}, All Rights Reserved. 
+-->
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
@@ -5,14 +15,27 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <a href="#!" target="_self">
+            {% if page.permalink == '/en/' %}
+            <a href="/" target="_self">
+              <img class="svg" src="/images/cn.svg" width="20pt"> 
+              中文
+            </a>
+            {% else %}
+            <a href="/en/" target="_self">
               <img class="svg" src="/images/en.svg" width="20pt"> 
               English
             </a>
+            {% endif %}
           </li>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
+          {% if page.permalink == '/en/' %}
+            {% for link in site.data.navigation-en.main %}
+              <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
+            {% endfor %}
+          {% else %}
+            {% for link in site.data.navigation.main %}
+              <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
+            {% endfor %}
+          {% endif %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "#about-me"
+
+  - title: "Education"
+    url: "#-xl"
+
+  - title: "Projects"
+    url: "#-xmjl"
+
+  - title: "Publications"
+    url: "#-lwzl"
+
+  - title: "Awards"
+    url: "#-ryjx"
+
+  - title: "Conferences"
+    url: "#-xshy"
+
+  - title: "Experience"
+    url: "#-gzsx"
