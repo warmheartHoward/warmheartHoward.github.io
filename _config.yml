@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao Wang(王昊)"
-description              : "专注于自动驾驶领域多模态基础模型的研究与工程化应用"
+description              : "Conducting research and engineering deployment of multimodal foundation models in autonomous driving."
 repository               : "warmheartHoward.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ google_scholar_stats_use_cdn : false
 author:
   name             : "Hao Wang(王昊)"
   avatar           : "/images/personal_image.jpg"
-  bio              : "清华大学深圳国际研究生院"
-  location         : "广东 深圳"
+  bio              : "Tsinghua University Shenzhen International Graduate School"
+  location         : "Shenzhen, Guangdong, China"
   employer         : "Huawei Noah's Ark Lab"
   pubmed           : 
   googlescholar    : 
