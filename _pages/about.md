@@ -37,9 +37,14 @@ My research areas include:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文
+# 🧭 项目经历
 
-### 中文
+
+
+<span class='anchor' id='-xshy'></span>
+
+
+# 📝 论文
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">光学精密工程 2025</div><img src='images/整体算法流程.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,12 +64,6 @@ My research areas include:
 - `王昊`, 肖巍, 李星辉. 一种基于视觉的液量进液体积计量方法与系统.
 
 <span class='anchor' id='-ryjx'></span>
-
-# 🧭 项目经历
-
-
-
-<span class='anchor' id='-xshy'></span>
 
 # 🏅 荣誉奖项
 - *2025.05* 获得 清华大学深圳国际研究生院第十届专业实践`二等奖`
