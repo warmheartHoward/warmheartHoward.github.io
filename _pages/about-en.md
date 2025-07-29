@@ -1,7 +1,7 @@
 ---
 permalink: /en/
-title: "Hao Wang(王昊)"
-excerpt: "Conducting research and engineering deployment of multimodal foundation models in autonomous driving."
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
