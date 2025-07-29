@@ -31,17 +31,17 @@ My research areas include:
   
 <span class='anchor' id='-xl'></span>
 
-# 🎓 Education Background
+# 🎓 学历
 - *2022.09 - 2025.06*, <a href="https://www.sigs.tsinghua.edu.cn/"><img class="svg" src="/images/Tsinghua.png" width="23pt"></a> Tsinghua University, Shenzhen International Graduate School, Shenzhen, Guangdong, Master's Degree (recommended exemption). 
-- *2017.09 - 2022.06*, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/Chongqing.png" width="20pt"></a> Chongqing University, Chongqing University - University of Cincinnati Joint College,Chongqing, Bachelor's Degree
+- *2017.09 - 2022.06*, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/Chongqing.png" width="23pt"></a> Chongqing University, Chongqing University - University of Cincinnati Joint College,Chongqing, Bachelor's Degree
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-xmjl'></span>
 
 # 🧭 项目经历
 
 
 
-<span class='anchor' id='-xshy'></span>
+<span class='anchor' id='-lwzl'></span>
 
 
 # 📝 论文
@@ -77,6 +77,7 @@ My research areas include:
 
 # 🏛️ 学术会议
 - *2024.10*, Wang H, Cao F, Xiao W, et al. Machine vision-based automatic liquid dispensing metering technology and system for microfluids[C]//Optical Metrology and Inspection for Industrial Applications XI. SPIE, 2024, 13241: 472-484.
+
 
 <span class='anchor' id='-gzsx'></span>
 

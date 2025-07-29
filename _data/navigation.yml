@@ -6,6 +6,9 @@ main:
   - title: "学历"
     url: "/zh-cn/#-xl"
 
+  - title: "项目经历"
+    url: "/zh-cn/#-xmjl"
+
   - title: "论文专利"
     url: "/zh-cn/#-lwzl"
 
