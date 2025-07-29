@@ -18,8 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-1我目前在清华大学深圳国际研究生院先进制造学部攻读研究生二年级。本科就读于重庆大学与辛辛那提大学联合学院。目前的研究课题是"基于机器视觉的微量液体体积测量技术与系统"。截至目前，已发表六项发明专利，并参与了多个工业研究项目。同时拥有丰富的实习经验。
+我目前在华为诺亚方舟实验室工作，主要的研究方向为自动驾驶和多模态大模型。我研究生毕业于清华大学深圳国际研究生院，所学专业为电子信息，主要的研究方向为视觉测量；本科就读于重庆大学，专业为机械设计制造及其自动化。我有着丰富的实习与工程落地经验，发表过中文核心期刊与多项专利。
 
+<div class="tags">
+  <span class="tag">国际化人才</span>
+  <span class="tag">多学科融合交叉</span>
+  <span class="tag">实习项目经历出众</span>
+</div>
 
 我的研究领域包括：
 
@@ -32,8 +37,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2022.09 - 2025.06*, <a href="https://www.sigs.tsinghua.edu.cn/"><img class="svg" src="/images/Tsinghua.png" width="23pt"></a> 清华大学, 深圳国际研究生院, 广东深圳, 工学硕士学位(推荐免试)。 
-- *2017.09 - 2022.06*, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/Chongqing.png" width="23pt"></a> 重庆大学, 重庆大学-辛辛那提大学联合学院, 重庆, 工学学士学位
+- *2022.09 - 2025.06*, <a href="https://www.sigs.tsinghua.edu.cn/"><img class="svg" src="/images/Tsinghua.png" width="23pt"></a> 清华大学，清华大学深圳国际研究生院, 电子信息（智能制造）, 广东深圳, 工学硕士学位(推荐免试)。 
+- *2017.09 - 2022.06*, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/Chongqing.png" width="23pt"></a> 重庆大学, 重庆大学-辛辛那提大学联合学院, 机械设计制作机器设计及自动化, 重庆, 工学学士学位。
  
 <span class='anchor' id='-xmjl'></span>
 

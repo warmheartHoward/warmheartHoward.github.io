@@ -3,7 +3,6 @@ permalink: /en/
 title: ""
 excerpt: ""
 author_profile: true
-layout: default
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -17,12 +16,18 @@ layout: default
 
 # About Me
 
-I am currently pursuing my second year of postgraduate studies at the School of Advanced Manufacturing, Tsinghua University Shenzhen International Graduate School. I completed my undergraduate degree at the UC Joint College of Chongqing University. My current research topic is 'Micro-liquid Volume Measurement Technology and Systems Based on Machine Vision'. To date, I have published six invention patents and have been involved in multiple industrial research projects. I also have extensive internship experience.
+I am currently working at Noah's Ark Lab under Huawei's 2012 Lab, with primary research focuses on autonomous driving and multimodal large models. I graduated with a Master's degree in Electronic Information from Tsinghua University Shenzhen International Graduate School, specializing in vision measurement. I completed my undergraduate studies in Mechanical Design, Manufacturing and Automation at Chongqing University. I have extensive internship and engineering implementation experience, with publications in Chinese core journals and multiple patents.
+
+<div class="tags">
+  <span class="tag">International Talent</span>
+  <span class="tag">Interdisciplinary Integration</span>
+  <span class="tag">Outstanding Internship Experience</span>
+</div>
 
 My research areas include:
 
-- Mutimodal large model
-- Self-Driving Vehicle
+- Multimodal Large Models
+- Autonomous Driving
 - Machine Vision
 - Instrumentation
 - Mechanical Engineering
