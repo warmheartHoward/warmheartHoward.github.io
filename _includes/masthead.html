@@ -16,26 +16,24 @@
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
             {% if page.permalink == '/en/' %}
-            <a href="/" target="_self">
-              <img class="svg" src="/images/cn.svg" width="20pt"> 
+            <a href="/" target="_self" aria-label="Switch to Chinese">
+              <img class="svg" src="/images/cn.svg" width="20pt" alt="Chinese"> 
               中文
             </a>
             {% else %}
-            <a href="/en/" target="_self">
-              <img class="svg" src="/images/en.svg" width="20pt"> 
+            <a href="/en/" target="_self" aria-label="Switch to English">
+              <img class="svg" src="/images/en.svg" width="20pt" alt="English"> 
               English
             </a>
             {% endif %}
           </li>
+          {% assign navigation = site.data.navigation.main %}
           {% if page.permalink == '/en/' %}
-            {% for link in site.data.navigation-en.main %}
-              <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
-            {% endfor %}
-          {% else %}
-            {% for link in site.data.navigation.main %}
-              <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
-            {% endfor %}
+            {% assign navigation = site.data.navigation-en.main %}
           {% endif %}
+          {% for link in navigation %}
+            <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
+          {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

@@ -18,22 +18,22 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently pursuing my second year of postgraduate studies at the School of Advanced Manufacturing, Tsinghua University Shenzhen International Graduate School. I completed my undergraduate degree at the UC Joint College of Chongqing University. My current research topic is 'Micro-liquid Volume Measurement Technology and Systems Based on Machine Vision'. To date, I have published six invention patents and have been involved in multiple industrial research projects. I also have extensive internship experience.
+1我目前在清华大学深圳国际研究生院先进制造学部攻读研究生二年级。本科就读于重庆大学与辛辛那提大学联合学院。目前的研究课题是"基于机器视觉的微量液体体积测量技术与系统"。截至目前，已发表六项发明专利，并参与了多个工业研究项目。同时拥有丰富的实习经验。
 
 
-My research areas include:
+我的研究领域包括：
 
-- Mutimodal large model
-- Self-Driving Vehicle
-- Machine Vision
-- Instrumentation
-- Mechanical Engineering
+- 多模态大模型
+- 自动驾驶
+- 机器视觉
+- 仪器仪表
+- 机械工程
   
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2022.09 - 2025.06*, <a href="https://www.sigs.tsinghua.edu.cn/"><img class="svg" src="/images/Tsinghua.png" width="23pt"></a> Tsinghua University, Shenzhen International Graduate School, Shenzhen, Guangdong, Master's Degree (recommended exemption). 
-- *2017.09 - 2022.06*, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/Chongqing.png" width="23pt"></a> Chongqing University, Chongqing University - University of Cincinnati Joint College,Chongqing, Bachelor's Degree
+- *2022.09 - 2025.06*, <a href="https://www.sigs.tsinghua.edu.cn/"><img class="svg" src="/images/Tsinghua.png" width="23pt"></a> 清华大学, 深圳国际研究生院, 广东深圳, 工学硕士学位(推荐免试)。 
+- *2017.09 - 2022.06*, <a href="https://www.cqu.edu.cn/"><img class="svg" src="/images/Chongqing.png" width="23pt"></a> 重庆大学, 重庆大学-辛辛那提大学联合学院, 重庆, 工学学士学位
  
 <span class='anchor' id='-xmjl'></span>
 
