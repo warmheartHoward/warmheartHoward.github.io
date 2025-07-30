@@ -43,7 +43,7 @@ redirect_from:
 
 # 🧭 项目经历
 
-### 项目一：基于机器视觉的微量液体体积测量技术与系统
+### 基于机器视觉的微量液体体积测量技术与系统 
 
 <div class="paper-box">
   <div class="paper-box-image">
@@ -84,16 +84,14 @@ redirect_from:
   </div>
 </div>
 
----
 
-
-### 项目二：基于深度学习的复杂场景下软体机器人视觉伺服控制
+### 基于深度学习的复杂场景下软体机器人视觉伺服控制
 
 <div class="paper-box">
   <div class="paper-box-image">
     <div class="flex-container">
-      <img src="/images/soft_robot_arm.png" alt="软体机械臂系统示意图" class="flex-item">
-      <img src="/images/vision_servo.gif" alt="视觉伺服控制演示" class="flex-item">
+      <img src="/images/DDPG.png" alt="DDPG强化学习在线训练流程设计" class="flex-item">
+      <img src="/images/robot servo.gif" alt="视觉伺服控制演示" class="flex-item">
     </div>
     <div class="badge">2022</div>
   </div>
@@ -120,7 +118,7 @@ redirect_from:
     - 成功开发了一套高效的软体机械臂视觉伺服控制系统，在复杂环境下表现出色。
     - 该系统能够在有限时间内使机械臂末端对准目标物体，且具有良好的收敛效率。
     - 针对存在的问题（如目标检测精度、奖励函数设置等），提出了改进方案，为进一步提升系统性能奠定了基础。
-    - 项目成果包括发表于相关领域国际会议或期刊论文，以及多项技术创新点。
+    - 获得本科优秀毕业设计
 
   </div>
 </div>
