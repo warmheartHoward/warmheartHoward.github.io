@@ -63,8 +63,10 @@ redirect_from:
 
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文
+# 📝 论文与专利
 ---
+
+### 论文
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">光学精密工程 2025</div><img src='images/整体算法流程.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - `王昊`, 李星辉,肖巍等.基于机器视觉的透明软管内微量液体体积测量[J].光学精密工程, 2025,33(05):763-776.（核心期刊）
