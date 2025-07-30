@@ -40,6 +40,18 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.flex-item {
+    max-width: 48%;
+    border-radius: 8px;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;

@@ -44,9 +44,9 @@ redirect_from:
 # 🧭 项目经历
 <div class="paper-box">
   <div class="paper-box-image">
-    <div style="display: flex; justify-content: space-between;">
-      <img src="/images/platform.png" alt="硬件系统示意图" style="max-width: 48%; border-radius: 8px; margin-right: 1%;">
-      <img src="/images/vision_test.gif" alt="上位机测量功能演示" style="max-width: 48%; border-radius: 8px; margin-left: 1%;">
+    <div class="flex-container">
+      <img src="/images/platform.png" alt="硬件系统示意图" class="flex-item">
+      <img src="/images/vision_test.gif" alt="上位机测量功能演示" class="flex-item">
     </div>
     <div class="badge">基于机器视觉的微量液体体积测量技术与系统 2025</div>
   </div>
