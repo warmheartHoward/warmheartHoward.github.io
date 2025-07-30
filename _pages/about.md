@@ -42,13 +42,16 @@ redirect_from:
 <span class='anchor' id='-xmjl'></span>
 
 # 🧭 项目经历
+
+### 项目一：基于机器视觉的微量液体体积测量技术与系统
+
 <div class="paper-box">
   <div class="paper-box-image">
     <div class="flex-container">
       <img src="/images/platform.png" alt="硬件系统示意图" class="flex-item">
       <img src="/images/vision_test.gif" alt="上位机测量功能演示" class="flex-item">
     </div>
-    <div class="badge">基于机器视觉的微量液体体积测量技术与系统 2025</div>
+    <div class="badge">2025</div>
   </div>
   <div class="paper-box-text" markdown="1">
 
@@ -81,7 +84,46 @@ redirect_from:
   </div>
 </div>
 
+---
 
+
+### 项目二：基于深度学习的复杂场景下软体机器人视觉伺服控制
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="flex-container">
+      <img src="/images/soft_robot_arm.png" alt="软体机械臂系统示意图" class="flex-item">
+      <img src="/images/vision_servo.gif" alt="视觉伺服控制演示" class="flex-item">
+    </div>
+    <div class="badge">2022</div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+  - **Situation:**  
+    软体机器人因其高柔顺性和适应性在复杂和多变环境中展现出独特优势。然而，其高度非线性的材料特性使得精准建模与控制变得尤为困难。本项目旨在通过深度学习技术，开发一种智能视觉伺服控制系统，以实现对软体机器人末端执行器的精确控制。
+
+  - **Task:**  
+    作为项目核心成员，主要负责软体机械臂视觉伺服控制系统的开发工作，具体任务包括：
+    - 设计并实现基于卷积神经网络 SSD-MobileNet v2 的目标检测算法，用于识别和跟踪目标物体。
+    - 开发基于强化学习 DDPG 算法的决策模型，驱动软体机械臂完成视觉伺服任务。
+    - 构建实验平台，集成气动软体机械臂、电磁比例阀及上位机控制系统。
+    - 完成从状态空间到操作空间的映射，确保软体机械臂能够准确对准目标位置。
+
+  - **Action:**  
+    在项目的实施过程中，完成了以下关键工作：
+    - 建立了一个包含3000张图像的数据集，并利用Tensorflow框架训练了高精度的目标检测模型。
+    - 针对软体机械臂的动态特性，优化DDPG算法，实现了在线学习和实时决策。
+    - 实验验证了该系统在连续100次移动目标位置的任务中，有92%的成功率，平均收敛时间为6.35秒，平均消耗的决策步数为15.95步。
+    - 设计并搭建了气动软体机械臂实验平台，详细测试了各个硬件组件的技术参数及其相互作用。
+
+  - **Result:**  
+    - 成功开发了一套高效的软体机械臂视觉伺服控制系统，在复杂环境下表现出色。
+    - 该系统能够在有限时间内使机械臂末端对准目标物体，且具有良好的收敛效率。
+    - 针对存在的问题（如目标检测精度、奖励函数设置等），提出了改进方案，为进一步提升系统性能奠定了基础。
+    - 项目成果包括发表于相关领域国际会议或期刊论文，以及多项技术创新点。
+
+  </div>
+</div>
 
 <span class='anchor' id='-lwzl'></span>
 
