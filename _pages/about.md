@@ -43,7 +43,7 @@ redirect_from:
 
 # 🧭 项目经历
 
-### 基于机器视觉的微量液体体积测量技术与系统 
+### 项目一 基于机器视觉的微量液体体积测量技术与系统 
 
 <div class="paper-box">
   <div class="paper-box-image">
@@ -85,13 +85,13 @@ redirect_from:
 </div>
 
 
-### 基于RGBD/双目的人手关节3D姿态估计
+### 项目二 基于RGBD/双目的人手关节3D姿态估计
 
 <div class="paper-box">
   <div class="paper-box-image">
     <div class="flex-container">
-      <img src="/images/Hand1.png" alt="人手姿态估计示意图-1" class="flex-item">
-      <img src="/images/Hand2.png" alt="人手姿态估计示意图-2" class="flex-item">
+      <img src="/images/Hand1.jpg" alt="人手姿态估计示意图-1" class="flex-item">
+      <img src="/images/Hand2.jpg" alt="人手姿态估计示意图-2" class="flex-item">
     </div>
     <div class="badge">2024</div>
   </div>
@@ -120,9 +120,41 @@ redirect_from:
   </div>
 </div>
 
+### 项目三 基于LangChain与大语言模型的自动视频剪辑系统
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="flex-container">
+      <img src="/images/llm_video_editing_arch.png" alt="自动剪辑系统架构图" class="flex-item">
+      <img src="/images/demo_video.gif" alt="自动剪辑效果演示" class="flex-item">
+    </div>
+    <div class="badge">2023</div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+  - **Situation:**  
+    在当前视频内容创作需求日益增长的背景下，用户希望快速从大量拍摄素材中筛选、排序并生成符合特定风格和故事性的视频片段。基于大模型赋能的自动剪辑算法应运而生，旨在根据用户的自然语言描述（如快闪、故事性等剪辑风格要求），实现一键成片的功能。
+
+  - **Task:**  
+    目标是开发一套基于大语言模型（LLM）和LangChain框架的系统，能够根据用户定义或特定要求（如快闪、故事性等），从一系列输入视频片段中筛选并排序出最佳组合，以自动生成符合预期风格的高质量视频剪辑。
+
+  - **Action:**  
+    在项目实施过程中，主导并完成了以下关键技术工作：
+    - **多模态数据分析**：应用 Blip-image-captioning-base 和 Blip-VisualQuestionAnswering 模型对视频进行抽帧处理，并为每一帧生成结构化的图像描述（caption）。结合语义分割与评分算法，确保关键信息的准确提取与表达。
+    - **智能视频理解与描述生成**：设计定制化 Prompt，将视频帧的 caption 序列输入大语言模型，由其推理生成整体视频语义描述，涵盖时间、场景、人物、情绪与关键事件，提升上下文理解能力。
+    - **高级排序与筛选机制**：基于LLM生成的视频描述，构建排序逻辑，综合考虑事件时序、场景连贯性与角色一致性，实现视频片段的智能化排序与结构化组织。
+    - **模型优化**：针对不同LLM版本（如从 text-davinci-003 到 GPT-3.5-turbo-instruct）的兼容性问题，持续优化 Prompt 工程与模型调用策略，保障系统稳定输出。
+
+  - **Result:**  
+    - 成功实现了整个功能 pipeline 的自动化，显著提升了视频剪辑的效率和质量。
+    - 项目成果面向公司CEO进行了汇报，并获得了技术团队的一致认可，验证了该算法在实际应用中的可行性与优越性。
+    - 充分展现了在多模态数据分析、自然语言处理（NLP）、Prompt工程、LangChain应用及机器学习系统集成方面的专业能力。
+
+  </div>
+</div>
 
 
-### 基于深度学习的复杂场景下软体机器人视觉伺服控制
+### 项目四 基于深度学习的复杂场景下软体机器人视觉伺服控制
 
 <div class="paper-box">
   <div class="paper-box-image">
