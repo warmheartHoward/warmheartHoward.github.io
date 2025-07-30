@@ -125,8 +125,7 @@ redirect_from:
 <div class="paper-box">
   <div class="paper-box-image">
     <div class="flex-container">
-      <img src="/images/llm_video_editing_arch.png" alt="自动剪辑系统架构图" class="flex-item">
-      <img src="/images/demo_video.gif" alt="自动剪辑效果演示" class="flex-item">
+      <img src="/images/LLM Clip.png" alt="自动剪辑系统架构图" class="flex-item">
     </div>
     <div class="badge">2023</div>
   </div>
