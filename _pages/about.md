@@ -42,7 +42,7 @@ redirect_from:
 <span class='anchor' id='-xmjl'></span>
 
 # 🧭 项目经历
-
+---
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
@@ -60,8 +60,8 @@ redirect_from:
 </div>
 
 
-<span class='anchor' id='-lwzl'></span>
 
+<span class='anchor' id='-lwzl'></span>
 
 # 📝 论文
 ---
