@@ -42,33 +42,42 @@ redirect_from:
 <span class='anchor' id='-xmjl'></span>
 
 # 🧭 项目经历
-
 <div class="paper-box">
   <div class="paper-box-image">
-    <div>
-      <div class="badge">项目名称 2025</div>
-      <!-- <video src="" autoplay loop muted playsinline style="max-width: 100%; border-radius: 8px;"></video> -->
-      <img src="/images/vision_test.gif" alt="项目演示" style="max-width: 100%; border-radius: 8px;">
+    <div style="display: flex; justify-content: space-between;">
+      <img src="/images/platform.png" alt="硬件系统示意图" style="max-width: 48%; border-radius: 8px; margin-right: 1%;">
+      <img src="/images/vision_test.gif" alt="上位机测量功能演示" style="max-width: 48%; border-radius: 8px; margin-left: 1%;">
     </div>
+    <div class="badge">基于机器视觉的微量液体体积测量技术与系统 2025</div>
   </div>
   <div class="paper-box-text" markdown="1">
 
-  - **Situation:** 在水质在线检测仪器领域，精确计量进入反应容器的微液量至关重要。然而，传统液体体积计量方法受到气泡与残留在管壁上的液珠影响，误差范围在10-20%之间。因此，本课题的目标是基于机器视觉技术，实现微液量体积的精准检测。
+  - **Situation:**  
+    在环保水质在线检测仪器中，传统微液量（~0.5 mL）计量方法易受气泡、管壁残液和温度波动影响，误差高达 10–20%，导致检测结果不稳定。亟需一种高精度、抗干扰的在线计量方案。
 
-  - **Task:** 作为研究生课题负责人，我承担了整体课题的软硬件开发与功能算法研究，具体任务包括：
-      * 硬件实验平台的设计、仿真与搭建：选型相机、镜头和光源，设计计算摄像指标，并进行实物搭建。
-      * 基于视觉的进液运动反馈控制算法实现：确保系统能够实时监测并调整进液过程。
-      * 提取采集图像中液体计量的视觉特征：通过自适应邻域加权亮度分析算法，稳定提取液段像素长度，排除气泡干扰、光照不均及管壁反光等不利因素的影响。
-      * 基于所提取的视觉特征与万分之一天平所称量的真实值进行线性回归拟合：获取标定曲线，或基于单应矩阵的图像特征坐标变换测量法，将像素坐标映射至物理空间并结合管道内径实现体积计算。
+  - **Task:**  
+    作为研究生课题负责人，主导开发基于机器视觉的非接触式微液量体积测量系统。核心任务包括：
+    - 设计并搭建高稳定性视觉成像硬件平台（相机 + 镜头 + 光源）
+    - 实现液段图像的鲁棒分割与特征提取，克服反光、气泡干扰
+    - 构建从像素长度到实际体积的定量映射模型，目标精度 ≥98%
+    - 开发配套的上位机软件，实现数据采集、处理及结果显示
 
-  - **Action:** 我独自完成了整个项目的研发工作，具体行动如下：
-      * 设计并搭建了微液量进液视觉计量硬件系统，包括相机、镜头和光源的选型及计算摄像指标设计与硬件自动化控制。
-      * 利用OpenCV和机器学习方法实现了图像计量特征如液段像素长度以及残留液滴特征的提取。
-      * 分别基于标定测量法、物理建模直接测量法和基于物理机理先验的机器学习预测算法实现了微液量的计量，最终达到99%的计量精度。
-      * 在此过程中，显著提升了个人独立解决实际工业机器视觉工程问题的能力，并产出一篇发明专利与一篇中文核心期刊。
+  - **Action:**  
+    独立完成系统软硬件开发与算法研究，关键工作包括：
+    - 选用工业相机与环形光源，结合 FEP 透明软管，构建抗干扰成像环境
+    - 基于 OpenCV 实现 **自适应邻域加权亮度分析算法**，稳定提取液段像素长度
+    - 提出两种计量方法：
+      1. **标定拟合法**：通过静力称重数据拟合像素-体积非线性关系
+      2. **物理映射法**：利用单应矩阵将图像坐标转换为物理尺寸，结合管道内径计算体积
+    - 探索融合物理先验的机器学习模型，进一步提升预测鲁棒性
+    - 开发基于 Python 和 PyQt5 的上位机软件，集成数据采集、图像处理、模型标定和实际测量功能
 
-  - **Result:** 根据我提出的整套技术方案，液体计量精度达到了98.4%，有效解决了现有环保水质检测仪器微液量进液计量受到气泡与残液干扰、传统方法精度低、稳定性差的问题。实验结果表明，在复杂环境中，两种计量策略的精度分别达到98.3%和98.4%，能够有效满足工业现场对微量液体体积快速测量的需求，具有显著的应用价值和推广潜力。
-  
+  - **Result:**  
+    - 系统在复杂工业环境下实现 **98.3% 与 98.4%** 的计量精度，优于传统方法
+    - 成功解决气泡、残液、光照不均等关键干扰问题，具备强鲁棒性
+    - 项目成果产出 **1项发明专利**（第一发明人）与 **1篇中文核心期刊论文**
+    - 显著提升独立解决工业级机器视觉系统工程问题的能力
+
   </div>
 </div>
 
@@ -80,7 +89,7 @@ redirect_from:
 # 📝 论文与专利
 
 ### 论文
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">光学精密工程 2025</div><img src='images/整体算法流程.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">光学精密工程 2025</div><img src='/images/Algorithm process.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - `王昊`, 李星辉,肖巍等.基于机器视觉的透明软管内微量液体体积测量[J].光学精密工程, 2025,33(05):763-776.（核心期刊）
 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=liLFU49ICVv6jJCD0eIQSuXAIyB3Sp51wdG7mJ-nyE3PHj041eXQZwkBnFJTy-MeUnri7SK6LWF_LsUnyE8guJvkb7Q1wDjqkJXDcmg2i8E2hjxE1_R1rrtEXrJmSxiY58y-l73cwCXaBDFX9kil8ccOLejKTOIICLN7-iAW_DGyChbaWntvJw==&uniplatform=NZKPT&language=CHS) [[预览]](https://github.com/warmheartHoward/warmheartHoward.github.io/tree/master/pdf) [[下载]]()  
