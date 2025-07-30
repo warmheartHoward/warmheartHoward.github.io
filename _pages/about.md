@@ -42,6 +42,7 @@ redirect_from:
 <span class='anchor' id='-xmjl'></span>
 
 # 🧭 项目经历
+
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
@@ -51,16 +52,17 @@ redirect_from:
     </div>
   </div>
   <div class="paper-box-text" markdown="1">
-- **Situation:** 这里描述项目背景和现状。
-- **Task:** 这里描述你在项目中的任务。
-- **Action:** 这里描述你采取的行动。
-- **Result:** 这里描述项目成果和影响。
+  - **Situation:** 这里描述项目背景和现状。
+  - **Task:** 这里描述你在项目中的任务。
+  - **Action:** 这里描述你采取的行动。
+  - **Result:** 这里描述项目成果和影响。
   </div>
 </div>
 
 
 
 <span class='anchor' id='-lwzl'></span>
+
 
 # 📝 论文与专利
 
