@@ -43,6 +43,21 @@ redirect_from:
 
 # 🧭 项目经历
 
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">项目名称 2025</div>
+      <!-- <video src="" autoplay loop muted playsinline style="max-width: 100%; border-radius: 8px;"></video> -->
+      <img src="/images/vision_test.gif" alt="项目演示" style="max-width: 100%; border-radius: 8px;">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+- **Situation:** 这里描述项目背景和现状。
+- **Task:** 这里描述你在项目中的任务。
+- **Action:** 这里描述你采取的行动。
+- **Result:** 这里描述项目成果和影响。
+  </div>
+</div>
 
 
 <span class='anchor' id='-lwzl'></span>
