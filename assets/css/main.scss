@@ -1,5 +1,4 @@
----
----
+// Custom styles
 
 /*
  *    Minimal Mistakes Jekyll Theme
@@ -39,18 +38,6 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-.flex-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
-}
-
-.flex-item {
-    max-width: 48%;
-    border-radius: 8px;
-}
 
 .paper-box {
     display: flex;
@@ -96,9 +83,22 @@
 
     }
 
-
 }
 
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap: 1em;
+}
+
+.flex-item {
+    max-width: 48%;
+    border-radius: 8px;
+}
+
+// Custom styles
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
