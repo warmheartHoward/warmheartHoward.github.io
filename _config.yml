@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao Wang(王昊)"
-description              : "Conducting research and engineering deployment of multimodal foundation models in autonomous driving."
+description              : "AI Algorithm Engineer working on multimodal foundation models: video understanding, world knowledge, and OCR reasoning."
 repository               : "warmheartHoward.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -25,7 +25,7 @@ author:
   avatar           : "/images/personal_image.jpg"
   bio              : "Tsinghua University Shenzhen International Graduate School"
   location         : "Shenzhen, Guangdong, China"
-  employer         : "Huawei Noah's Ark Lab"
+  employer         : "Huawei 2012 Laboratories"
   pubmed           : 
   googlescholar    : 
   email            : "13018398576@163.com"
